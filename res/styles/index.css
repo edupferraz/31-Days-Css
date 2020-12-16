@@ -24,25 +24,27 @@
 
 #content #text h1{
     font-size: 70px;
+    margin-bottom: 60px;
 
     color: var(--color-text-primary);
 }
 
-#content #text button{
+#content #text a{
     padding: 20px 90px;
     margin: 50px 100px;
 
     font-size: 24px;
 
-    border: 0px #ffffff;
-    background-color: var(-color-text-primary);
+    border: 1px solid var(--color-text-primary);
+    color: var(--color-text-primary);
     border-radius: 16px;
 
     cursor: pointer;
     transition: 0.5s;
 }
 
-#content #text button:hover{
+#content #text a:hover{
     background-color: var(--color-secondary);
     color: var(--color-text-primary);
+    border: 1px solid var(--color-secondary);
 }

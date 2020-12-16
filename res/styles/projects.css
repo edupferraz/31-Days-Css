@@ -1,0 +1,108 @@
+*{
+    box-sizing: border-box;
+}
+
+a{
+    color: var(--color-text-primary);
+}
+
+.wrapper{
+    margin: 5em auto;
+    max-width: 1400px;
+
+    padding: 40px;
+  
+    background-color: #fff;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.06);
+    
+}
+
+.header {
+    padding: 40px 30px ;
+    text-align: center;
+}
+
+.header span{
+    font-size: 42px;
+    font-weight: bold;
+    color: var(--color-primary);
+}
+
+/*Grid Container*/
+.cards {
+  padding: 15px;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+/*Cards*/
+.card {
+  margin: 15px; 
+
+  width: calc((100% / 3) - 30px);
+  
+
+  background-color: #a4f7f76b;
+
+  transition: all 0.4s ease-in-out;
+
+}
+
+
+
+.card-inner{
+    width: 75%;
+    margin-left: 25%;
+
+
+    padding: 30px;
+    position: relative;
+    cursor: pointer;
+    
+    background-color: #0abeb5;
+    color: #ffffff;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.card-inner h4{
+    position: absolute;
+    left: -20%;
+    font-size: 24px;
+    color: var(--color-primary);
+
+}
+
+.card-inner:hover {
+    background-color: var(--color-primary);
+    transform: scale(1.05);
+
+}
+
+.card-inner::after{
+    transition: all 0.3s ease-in-out;
+}
+
+.card:hover{
+    scale: 1.1;
+}
+
+@media (max-width: 1000px) {
+
+    .card{
+        width: calc((100% / 2) - 30px);
+    }
+
+}
+
+@media (max-width: 800px) {
+
+    .card{
+        width: 100%;
+    }
+
+}

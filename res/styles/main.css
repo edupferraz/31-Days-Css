@@ -45,7 +45,9 @@ header #logo{
     margin-left: 140px;
 }
 
-header #logo h1{
+header #logo a{
+    font-size: 40px;
+    font-weight: bold;
     color: var(--color-primary);
 }
 
@@ -70,8 +72,8 @@ header #links ul li a{
 }
 
 header #links ul li .active{
-    color: var(--color-secondary);
+    color: var(--color-primary);
     padding: 10px;
-    border-bottom: 1px solid var(--color-primary);
+    border-bottom: 1px solid var(--color-secondary);
 
 }
