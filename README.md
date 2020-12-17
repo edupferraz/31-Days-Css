@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Banner" title="Banner" src="./res/images/Readme/Banner_Github" width="1000px">
+  <img alt="Banner" title="Banner" src="./res/images/Readme/Banner_Github.png" width="1000px">
 </p>
 
 <h1 align="center">31 Days of CSS</h1>
@@ -44,13 +44,13 @@ the CSS language along with HTML and JavaScript to make amazing styles and effec
 <p align="center">
   <img alt="Web_Index" title="Web_Index" src="./res/images/Readme/Web_Index" width="1000px">
 
-  <img alt="Web_Projects" title="Happy Web" src="./res/images/Readme/Web_Projects" width="1000px">
+  <img alt="Web_Projects" title="Happy Web" src="./res/images/Readme/Web_Projects.png" width="1000px">
   
-  <img alt="Web_About_1" title="Web_About_1" src="./res/images/Readme/Web_About_1" width="1000px">
+  <img alt="Web_About_1" title="Web_About_1" src="./res/images/Readme/Web_About_1.png" width="1000px">
   
-  <img alt="Web_About_2" title="Web_About_2" src="./res/images/Readme/Web_About_2" width="1000px">
+  <img alt="Web_About_2" title="Web_About_2" src="./res/images/Readme/Web_About_2.png" width="1000px">
   
-  <img alt="Web_Contact" title="Web_Contact" src="./res/images/Readme/Web_Contact" width="1000px">
+  <img alt="Web_Contact" title="Web_Contact" src="./res/images/Readme/Web_Contact.png" width="1000px">
 </p>
 
 <h2 id="installation"> :computer: Installation </h2> 
