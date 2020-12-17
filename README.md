@@ -42,7 +42,7 @@ the CSS language along with HTML and JavaScript to make amazing styles and effec
 <span> - You can access the project website by clicking </span> <a href="https://edupferraz.github.io/31-Days-Css/pages/">here</a>
 
 <p align="center">
-  <img alt="Web_Index" title="Web_Index" src="./res/images/Readme/Web_Index" width="1000px">
+  <img alt="Web_Index" title="Web_Index" src="./res/images/Readme/Web_Index.png" width="1000px">
 
   <img alt="Web_Projects" title="Happy Web" src="./res/images/Readme/Web_Projects.png" width="1000px">
   
