@@ -50,6 +50,7 @@ a{
 
 .card-inner{
     width: 75%;
+    height: 100%;
     margin-left: 25%;
 
 
@@ -64,6 +65,8 @@ a{
     text-align: center;
 
     transition: all 0.2s ease-in-out;
+
+    line-height: 25px;
     
 }
 
