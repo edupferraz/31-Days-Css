@@ -9,29 +9,29 @@
 #content #image{
     width: 40vw;
 
-    padding: 0 180px;
+    padding: 0 150px;
 }
 
 #content #image img{
-    width: 600px;
+    width: 500px;
 }
 
 #content #text{
     width: 60vw;
 
-    padding: 300px 0px;
+    padding: 250px 0px;
 }
 
 #content #text h1{
-    font-size: 70px;
-    margin-bottom: 60px;
+    font-size: 60px;
+    margin-bottom: 80px;
 
     color: var(--color-text-primary);
 }
 
 #content #text a{
     padding: 20px 90px;
-    margin: 50px 100px;
+    margin: 50px 4.5rem;
 
     font-size: 24px;
 

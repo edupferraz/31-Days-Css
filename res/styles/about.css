@@ -1,5 +1,5 @@
 body, header{
-    max-width: 1600px;
+    max-width: 1281px;
 }
 
 
@@ -8,11 +8,11 @@ body, header{
 }
 
 .content h2{
-    font-size: 42px;
+    font-size: 36px;
     font-weight: bold;
     color: var(--color-text-primary);
 
-    margin: 100px 43rem;
+    margin: 100px 35rem;
 }
 
 .content .week{
@@ -20,7 +20,7 @@ body, header{
     font-weight: bold;
     color: var(--color-text-primary);
 
-    margin: 0 10rem;
+    margin: 0 5rem;
 }   
 
 #banner{
@@ -38,21 +38,21 @@ body, header{
 
 #banner .banner-title{
 
-    margin: 0 0 0 150px;
+    margin: 0 0 0 60px;
 
 }
 
 #banner .banner-title span{
-    font-size: 48px;
+    font-size: 40px;
     color: var(--color-primary);
 }
 
 #banner .banner-content{
-    margin: 0 100px 0 0;
+    margin: 0 60px 0 0;
 }
 
 #banner .banner-content p{
-    font-size: 24px;
+    font-size: 20px;
     color: var(--color-primary);
     line-height: 40px;
 }
@@ -65,20 +65,20 @@ a {
 
 .card-list {
     display: flex;
-    padding: 3rem 150px;
+    padding: 3rem;
 
-    margin: 1.5rem 0 ;
+    margin: 1.5rem 30px;
     color: var(--color-primary);
 }
 
 .card {
     height: 350px;
-    width: 400px;
+    width: 250px;
     min-width: 250px;
     padding: 1.5rem;
     border-radius: 16px;
     background: var(--color-text-primary);
-    box-shadow: -0.9rem 0 2rem rgba(218, 218, 218, 0.801);
+    box-shadow: -0.5rem 0 2rem rgba(218, 218, 218, 0.801);
     display: flex;
     flex-direction: column;
     transition: .2s;
@@ -89,7 +89,7 @@ a {
 }
 
 .card:focus-within~.card, .card:hover~.card {
-    transform: translateX(130px);
+    transform: translateX(70px);
 }
 
 .card:hover {
@@ -97,7 +97,7 @@ a {
 }
 
 .card:not(:first-child) {
-    margin-left: -130px;
+    margin-left: -160px;
 }
 
 
