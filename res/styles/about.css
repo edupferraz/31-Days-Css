@@ -23,6 +23,10 @@ body, header{
     margin: 0 5rem;
 }   
 
+.contributors-itens{
+    display: none;
+}
+
 #banner{
     width: 100%;
     
@@ -48,7 +52,8 @@ body, header{
 }
 
 #banner .banner-content{
-    margin: 0 60px 0 0;
+    margin: 0 60px 0 60px;
+    text-align: justify;text-justify: inter-word;
 }
 
 #banner .banner-content p{
@@ -206,4 +211,71 @@ a {
     -webkit-box-decoration-break: clone;
     background-clip: text;
     border-color: var(--color-primary);
+}
+
+@media (max-width: 1100px) {
+
+    header, body{
+        padding-bottom: 4rem;
+        max-width: 99.999%;
+    }
+    
+    #banner .banner-title{
+        margin-left: 1rem;
+    }
+
+    #banner .banner-content{
+        margin: 0 2rem;
+    }
+
+    .content h2{
+        font-size: 36px;
+        font-weight: bold;
+        color: var(--color-text-primary);
+    
+        position: relative;
+        margin: 100px 40%;
+
+    }
+    
+    .content .week{
+        display: none;
+    }   
+
+    .content .card-list{
+        display: none;
+    }
+
+    .contributors-itens{
+        display: block;
+
+        margin-left: 8rem;
+        margin-bottom: 100rem;
+    
+    }
+
+    .contributors-itens ul li{
+        list-style: none;
+
+        margin: 1.4rem 0;
+
+    }
+
+    .contributors-itens ul li a{
+        color: #ffffff;
+        
+        font-size: 24px;
+
+        letter-spacing: 0.4rem;
+
+        transition: 0.5s;
+    }
+
+    .contributors-itens ul li a:hover{
+        margin-left: 4rem;
+
+        color: #e4e3e9;
+    }
+
+
 }

@@ -1,5 +1,6 @@
 body, header{
     max-width: 1281px;
+    min-width: 820px;
 }
 
 .wrapper {

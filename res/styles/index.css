@@ -7,33 +7,33 @@
 }
 
 #content #image{
-    width: 40%;
+    width: 35vw;
 
-    padding: 0 10rem;
+    padding: 0 10%;
 }
 
 #content #image img{
-    width: 500px;
+    width: 30rem;
 }
 
 #content #text{
-    width: 60%;
+    width: 65vw;
 
-    padding: 250px 0px;
+    padding: 15rem 0;
 }
 
 #content #text h1{
     font-size: 60px;
-    margin-bottom: 80px;
+    margin-bottom: 4rem;
 
     color: var(--color-text-primary);
 }
 
 #content #text a{
-    padding: 20px 90px;
-    margin: 50px 4.5rem;
+    padding: 1.3rem 6rem;
+    margin: 0 3.0em;
 
-    font-size: 24px;
+    font-size: 1.4rem;
 
     border: 1px solid var(--color-text-primary);
     color: var(--color-text-primary);
@@ -49,3 +49,31 @@
     border: 1px solid var(--color-secondary);
 }
 
+
+@media (max-width: 1000px) {
+
+    #content #image{
+        display: none;
+    }
+
+    #content #text{
+        width: 100vw;
+        padding: 13rem 25%;
+    }
+
+
+    #content #text a{
+
+    }
+
+}
+
+@media (max-width: 800px) {
+
+    #content #text{
+        width: 100vw;
+        padding: 13rem 25%;
+    }
+
+
+}
