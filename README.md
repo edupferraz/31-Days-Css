@@ -55,7 +55,7 @@ the CSS language along with HTML and JavaScript to make amazing styles and effec
 
 <h2 id="installation"> :computer: Installation </h2> 
 
-## Pré-requisitos
+## Requirements
 
 Before you start, you will need to have installed on your machine the following tools:
 [Git](https://git-scm.com). 
