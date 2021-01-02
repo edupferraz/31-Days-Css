@@ -55,11 +55,24 @@ the CSS language along with HTML and JavaScript to make amazing styles and effec
 
 <h2 id="installation"> :computer: Installation </h2> 
 
-> Em breve...
+## Requirements
+
+Before you start, you will need to have installed on your machine the following tools:
+[Git](https://git-scm.com). 
+Besides, it's good to have an editor to work with the code as [VSCode](https://code.visualstudio.com/)
+
+### Clone this repository
+$ git clone <https://github.com/edupferraz/31-Days-Css.git>
+
+### Have fun!
+Now with the clone on your machine just access it by VsCode and let your imagination act!
 
 <h2 id="projects"> 💡 Projects </h2> 
  
-> Em breve...
+<span id="flip-text">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day1/day1.html"> #01 - Flip Text </a>
+	<p>In this project the main concept learned is that of keyframe for animations and the possibilities of use.</p>
+</span>
 
 <h2 id="technologies"> 🛠️ Technologies </h2> 
 
