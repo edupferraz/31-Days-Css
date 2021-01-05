@@ -139,6 +139,7 @@ body{
     text-align: center;
     line-height: 26px;
     font-size: 14px;
+    border-radius: 4px;
     display: inline-block;
     color: #111111;
     background: #fff;
