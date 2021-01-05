@@ -4,6 +4,7 @@ res/fontawesome/metadata
 res/fontawesome/scss
 res/fontawesome/less
 res/fontawesome/sprites
-res/fontawesome/svgs
+res/fontawesome/svgs/solid
+res/fontawesome/svgs/regular
 res/fontawesome/webfonts
 res/fontawesome/attribution.js
