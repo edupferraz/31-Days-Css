@@ -21,6 +21,7 @@ Table of contents
       * [#03 - Video Inside Text](#video-text) 
       * [#04 - E-Commerce Card Design UI](#ecommerce-card) 
       * [#05 - Button Animation](#button-animation)
+      * [#06 - Search Box](#search-box)
       * ...
    * [Technologies](#technologies)
    * [License](#license)
@@ -92,9 +93,15 @@ Now with the clone on your machine just access it by VsCode and let your imagina
 </span>
 
 <span id="button-animation">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day5/day5.html"> #01 - Button Animation </a>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day5/day5.html"> #05 - Button Animation </a>
 	<p>Esse efeito de botões durante o hover foi onde aprendi mais sobre a manipulação dos elementos pelo position e pelo animation/@keyframes.</p>
 	<p>This button effect during hover was where I learned more about handling elements by position and animation/@keyframes.</p>
+</span>
+
+<span id="search-box">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day6/day6.html"> #06 - Search Box </a>
+	<p>Esse projeto foi onde aprendi a manipular input de uma forma mais moderna e visualmente bela.</p>
+	<p>This project was where I learned to manipulate input in a more modern and visually beautiful way.</p>
 </span>
 
 <h2 id="technologies"> 🛠️ Technologies </h2> 
