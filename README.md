@@ -22,6 +22,12 @@ Table of contents
       * [#04 - E-Commerce Card Design UI](#ecommerce-card) 
       * [#05 - Button Animation](#button-animation)
       * [#06 - Search Box](#search-box)
+      * [#07 - Menu Hover Effect](#menu-hover)
+      * [#08 - Neon Text Writer](#neon-writer)
+      * [#09 - Neon Buttons](#neon-buttons)
+      * [#10 - Neon Text Animation](#neon-animation)
+      * [#11 - Card Neon](#neon-card)
+      * [#12 - Banner Animation Neon](#neon-banner)
       * ...
    * [Technologies](#technologies)
    * [License](#license)
@@ -29,7 +35,7 @@ Table of contents
 
 <h2 id="about"> 💡 About </h2> 
 
-<p>Inspired by a challenge proposed by dev Morena Nobre the challenge consists of daily challenges for 31 days
+<p>The challenge consists of daily challenges for 31 days
 the CSS language along with HTML and JavaScript to make amazing styles and effects.</p>
 
 <span> - You can access the project website by clicking </span> <a href="https://edupferraz.github.io/31-Days-Css/pages/">here</a>
@@ -62,7 +68,9 @@ Now with the clone on your machine just access it by VsCode and let your imagina
 
 <h2 id="weeks"> :rocket: Weeeks</h2>
 
-<span> Semana 01 - Conceitos básicos do Css e elementos básicos de uma página</span>
+<span> Week 01 - Css basics and basic elements of a page</span>
+
+<span> Week 02 - Basic elements interpreted with neon style</span>
 
 <span> ...</span>
 
@@ -70,38 +78,62 @@ Now with the clone on your machine just access it by VsCode and let your imagina
  
 <span id="flip-text">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day1/day1.html"> #01 - Flip Text </a>
-	<p>Neste projeto o conceito princiap aprendido é o do keyframe para animações e as possibilidades de uso.</p>
 	<p>In this project the main concept learned is that of keyframe for animations and the possibilities of use.</p>
 </span>
 
 <span id="loading-animation">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day2/day2.html"> #02 - Loading Animation </a>
-	<p>Nesse projeto usei o conceito aprendido anteriormente do keyframe e juntamos isso para fazer esse efeito incrível.</p>
 	<p>In this project I used the previously learned concept of the keyframe and put it together to make this amazing effect.</p>
 </span>
 
 <span id="video-text">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day3/day3.html"> #03 - Video Inside Text </a>
-	<p>Esse efeito incrível foi feito utilizando propriedades básicas como o position porém se usadas corretamente criamos coisas surpreendentes.</p>
 	<p>This amazing effect was done using basic properties like position but if used correctly we create amazing things.</p>
 </span>
 
 <span id="ecommerce-card">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day4/day4.html"> #04 - Ecommerce Card</a>
-	<p>Esse foi o projeto que de longe foi o que mais aprendi até agora. É um conjunto de todas os conceitos básicos do CSS que fazem um efeito que eu gostei muito e pretendo aderir futuramente!</p>
 	<p>That was the project that by far was what I learned the most so far. It is a set of all the basics of CSS that make an effect that I liked a lot and intend to adhere to in the future!</p>
 </span>
 
 <span id="button-animation">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day5/day5.html"> #05 - Button Animation </a>
-	<p>Esse efeito de botões durante o hover foi onde aprendi mais sobre a manipulação dos elementos pelo position e pelo animation/@keyframes.</p>
 	<p>This button effect during hover was where I learned more about handling elements by position and animation/@keyframes.</p>
 </span>
 
 <span id="search-box">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day6/day6.html"> #06 - Search Box </a>
-	<p>Esse projeto foi onde aprendi a manipular input de uma forma mais moderna e visualmente bela.</p>
 	<p>This project was where I learned to manipulate input in a more modern and visually beautiful way.</p>
+</span>
+
+<span id="menu-hover">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day7/day7.html"> #07 - Menu Hover Effect </a>
+	</br>
+</span>
+
+<span id="neon-writer">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day8/day8.html"> #08 - Neon Text Writer </a>
+	</br>
+</span>
+
+<span id="neon-buttons">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day9/day9.html"> #09 - Neon Buttons </a>
+	</br>
+</span>
+
+<span id="neon-animation">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day10/day10.html"> #10 - Neon Text Animation </a>
+	</br>
+</span>
+
+<span id="neon-card">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day11/day11.html"> #11 - Card Neon </a>
+	</br>
+</span>
+
+<span id="neon-banner">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day12/day12.html"> #12 - Banner Neon Animation </a>
+	</br>
 </span>
 
 <h2 id="technologies"> 🛠️ Technologies </h2> 
