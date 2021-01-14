@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    min-height: 100vh;
+    background: #111111;
+}
+
+.lightsaber{
+    position: relative;
+    margin-top: 200px;
+}
+
+.lightsaber img {
+    display: block;
+    height: 150px;
+    width: 150px;
+}
+
+.plasma{
+    position: absolute;
+    bottom: 140px;
+    left: 68px;
+    border-radius: 12px 12px 0 0;
+    width: 20px;
+
+    transition: 0.7s;
+
+}
+
+span{
+    color: rgb(167, 167, 167);
+    font-size: 18px;
+}
+
+.lightsaber img#luke:hover ~ .plasma{
+    height: 250px;
+    background: #00BFFF;
+    box-shadow: 0px 0px 50px #00BFFF;
+}
+
+.lightsaber img#vader:hover ~ .plasma{
+    height: 250px;
+    background: red;
+    box-shadow: 0px 0px 50px red;
+}
+
+
+.lightsaber img#rey:hover ~ .plasma{
+    height: 250px;
+    background: yellow;
+    box-shadow: 0px 0px 50px yellow;
+}
+
+.lightsaber img#yoda:hover ~ .plasma{
+    height: 250px;
+    background: #00FF00;
+    box-shadow: 0px 0px 50px #00FF00;
+}
+
+.lightsaber img#windu:hover ~ .plasma{
+    height: 250px;
+    background: purple;
+    box-shadow: 0px 0px 50px purple;
+}
+
+.lightsaber img#ahsoka:hover ~ .plasma{
+    height: 250px;
+    background: white;
+    box-shadow: 0px 0px 50px white;
+}
