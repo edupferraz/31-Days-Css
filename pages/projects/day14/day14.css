@@ -25,13 +25,12 @@ body{
 
 .plasma{
     position: absolute;
-    bottom: 140px;
+    bottom: 141px;
     left: 68px;
     border-radius: 12px 12px 0 0;
     width: 20px;
 
     transition: 0.7s;
-
 }
 
 span{
