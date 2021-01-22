@@ -284,8 +284,6 @@
   }
   
   .container aside .center .infos .session {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
     justify-content: space-between;
   }
