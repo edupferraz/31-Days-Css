@@ -32,15 +32,15 @@ body{
 }
 
 .three {
-transform-origin: center right;
-animation: spin3 3s linear infinite;
-animation-delay: .3s;
+    transform-origin: center right;
+    animation: spin3 3s linear infinite;
+    animation-delay: .3s;
 }
 
 .four {
-transform-origin: center right;
-animation: spin4 3s linear infinite;
-animation-delay: .4s;
+    transform-origin: center right;
+    animation: spin4 3s linear infinite;
+    animation-delay: .4s;
 }
 
 @keyframes spin {

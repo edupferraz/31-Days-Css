@@ -1,0 +1,120 @@
+html {
+  background-color: #111111;  
+}
+
+.container {
+  position: absolute;
+  width: 200px;
+  height: 100px;
+  margin: auto;
+  top:0; bottom:0; left:0; right:0;
+}
+
+.loading {
+  position: absolute;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #05f28f;
+  width: 55px;
+  height: 10px;
+  margin: auto;
+  left:0; right:0;
+  top:0; bottom:0; 
+  animation: flash 0.75s infinite alternate linear;
+}
+
+.paddle {
+  position: absolute;
+  display: inline-block;  
+  background-color: #05f28f;
+  margin: auto;
+  top:auto; bottom:0;
+  left: 0;
+  width: 6px;
+  height: 40px;
+  border-radius: 10px;
+  animation: slide 0.8s 0.2s infinite alternate linear;
+}
+.paddle#right {
+  top:0; 
+  bottom:auto;
+  left:auto; 
+  right: 0;
+  animation: slide2 1s infinite alternate linear;
+}
+
+.ball {
+  position: absolute;
+  background-color: #05f28f;
+  width: 10px;
+  height: 10px;
+  margin: 8px;
+  bottom:10px; 
+  left:0;
+  border-radius: 50%;
+  animation: pong 1.5s infinite linear;
+}
+
+@keyframes slide {
+  0%{
+    bottom:40px;
+  }
+  45%{
+    bottom:0px;
+  }
+  67%{
+    bottom:60px;
+  }
+  100%{
+    bottom:40px;
+  }
+}
+
+
+@keyframes slide2 {
+  0%{
+    top:20px;
+  }
+  45%{
+    top:0px;
+  }
+  67%{
+    top:60px;
+  }
+  100%{
+    top:20px;
+  }
+}
+
+@keyframes pong {
+  0%{
+    bottom:20px;
+    left: 0;
+  }
+  30%{
+    bottom:-10px;
+    left:150px;
+  }
+  45%{
+    bottom:40px;
+    left:170px;
+  }
+  70%{
+    bottom:80px;
+    left:80px;
+  }
+  100%{
+    bottom:20px;
+    left: 0;
+  }
+}
+
+@keyframes flash {
+  0%{
+    opacity:0.2;
+  }
+
+  100%{
+    opacity:1;  
+  }
+}
