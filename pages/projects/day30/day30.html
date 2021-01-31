@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>31 Days Css #30</title>
+    <link rel="stylesheet" href="./day30.css">
+    <link rel = "shortcut icon" type = "imagem/x-icon" href = "../../../res/icons/css3_icon.svg"/>
+    <link rel="stylesheet" href="../../../res/fontawesome/css/all.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+  
+    <div class="container">
+        <div class="box">
+            <h2 class="name">Product Name</h2>
+            <a href="#" class="buy">Buy Now</a>
+            <div class="circle"></div>
+            <img src="shoes.png" class="product">
+        </div>
+    </div>  
+
+    <script src="vanilla-tilt.min.js"></script>
+    <script>
+        VanillaTilt.init(document.querySelector(".box"), {
+            max: 25,
+            speed: 400
+        })
+    </script>
+
+</body>
+</html>
