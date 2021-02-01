@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>31 Days Css - Final</title>
+    <link rel="stylesheet" href="./final.css">
+    <link rel = "shortcut icon" type = "imagem/x-icon" href = "../../../res/icons/css3_icon.svg"/>
+    <link rel="stylesheet" href="../../../res/fontawesome/css/all.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<div class="wrapper">
+    <div class="card">
+        <div class="profile">
+            
+            <img src="../../../res/images/octocat.png" alt="Profile">
+                
+            <p>Eduardo Ferraz</p>
+
+            <span>Web Developer</span>
+
+            <div class="social-media">
+                <ul>
+                    <li>
+                        <a href=""><i class="fab fa-linkedin"></i></a>
+                    </li>
+
+                    <li>
+                        <a href=""><i class="fab fa-github"></i></a>
+                    </li>
+                    
+                    <li>
+                        <a href=""><i class="fab fa-instagram"></i></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="stats">
+
+            <ul>
+                <li>
+                    <p><span>551</span> Followers</p>
+                </li>
+
+                <li>
+                    <p><span>7.937</span> Viwers</p>
+                </li>
+
+                <li>
+                    <p><span>731</span> Reactions</p>
+                </li>
+
+                <li>
+                    <p><span>312</span> Commits</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script src="vanilla-tilt.min.js"></script>
+<script>
+    VanillaTilt.init(document.querySelector(".card"), {
+        max: 15,
+        speed: 100
+    })
+</script>
+
+<div id="particles-js"></div>
+<!-- scripts -->
+<script src="./particles.js"></script>
+<script src="./app.js"></script>
+
+
+</body>
+</html>

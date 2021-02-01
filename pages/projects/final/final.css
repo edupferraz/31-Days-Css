@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+#particles-js{
+    height: 100vh;
+    background-color: #111111;
+    background-image: linear-gradient(rgba(0,0,0,0.5));
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper{
+    position: absolute;
+    left: 23%;
+    top: 10%;
+}
+
+.wrapper .card{
+    position: relative;
+    width: 650px;
+    height: 450px;
+    margin: 30px;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+    border-radius: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    display: flex;
+    border-top: 1px solid rgba(255, 255, 255, 0.3);
+    border-left: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(5px);
+    padding: 30px;
+}
+
+.wrapper .card .profile{
+    width: 50%;
+
+}
+
+.wrapper .card .profile img{
+    width: 150px;
+    height: 150px;
+    left: 80px;
+    margin-top: 33%;
+    transform: translateY(-50%);
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+}
+
+.wrapper .card .profile p{
+    font-size: 24px;
+    color: rgba(255, 255, 255, 0.678);
+    position: relative;
+    left: 70px;
+    top: -65px;
+    letter-spacing: 1.4px;
+}
+
+.wrapper .card .profile span{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.678);
+    position: relative;
+    left: 93px;
+    top: -70px;
+}
+
+.wrapper .card .profile .social-media{
+    width: 100%;
+    position: relative;
+}
+
+.wrapper .card .profile .social-media ul{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wrapper .card .profile .social-media li{
+    list-style: none;
+}
+
+.wrapper .card .profile .social-media li:last-child{
+    margin-right: 60px;
+}
+
+.wrapper .card .profile .social-media li a{
+    font-size: 26px;
+    color: #fff;
+}
+
+.wrapper .card .stats{
+    width: 50%;
+    border-left: 1px solid rgba(255, 255, 255, 0.219);
+}
+
+.wrapper .card .stats ul li{
+    list-style: none;
+    margin: 65px 40px;
+
+}
+
+.wrapper .card .stats ul li p{
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.596);
+}
+
+.wrapper .card .stats ul li p span{
+    font-size: 28px;
+    margin: 0 15px;
+    color: rgba(255, 255, 255, 0.89)
+}
