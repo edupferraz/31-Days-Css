@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>31 Days Css - #31</title>
+    <link rel="stylesheet" href="./day31.css">
+    <link rel = "shortcut icon" type = "imagem/x-icon" href = "../../../res/icons/css3_icon.svg"/>
+    <link rel="stylesheet" href="../../../res/fontawesome/css/all.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;700;800&display=swap" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('.more').click(function(){
+                $('.back').addClass('active')
+                $('.front').removeClass('active')
+            })
+
+            $('.go-back').click(function(){
+                $('.back').removeClass('active')
+                $('.front').addClass('active')
+            })
+        })
+    </script>
+</head>
+<body>
+
+    <div class="card">
+        <div class="front active">
+            <div class="location">Florianópolis</div>
+            <div class="more"><i class="fa fa-info-circle" aria-hidden="true"></i></div>
+            <div class="weather"><i class="fa fa-cloud"></i><h1>25<sup>o</sup> <br><span>Today</span></h1></div>
+            
+
+            <ul class="forecast">
+                <li>
+                    <div class="day">Sunday</div>
+                    <div class="temperature"><i class="fa fa-cloud"></i> 28<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Monday</div>
+                    <div class="temperature"><i class="fa fa-tint"></i> 29<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Tuesday</div>
+                    <div class="temperature"><i class="fa fa-tint"></i> 21<sup>o</sup></div>
+                </li>
+            </ul>
+        </div>
+
+        <div class="back">
+            <div class="go-back"><i class="fa fa-chevron-circle-left" aria-hidden="true"></i></div>
+        
+            <ul class="forecast">
+                <li>
+                    <div class="day">Yesterday</div>
+                    <div class="temperature"><i class="fa fa-sun"></i> 30<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Today</div>
+                    <div class="temperature"><i class="fa fa-cloud"></i> 25<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Tomorrow</div>
+                    <div class="temperature"><i class="fa fa-cloud"></i> 28<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Tuesday</div>
+                    <div class="temperature"><i class="fa fa-tint"></i> 29<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Wednesday</div>
+                    <div class="temperature"><i class="fa fa-tint"></i> 30<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Thuesday</div>
+                    <div class="temperature"><i class="fa fa-cloud"></i> 31<sup>o</sup></div>
+                </li>
+
+                <li>
+                    <div class="day">Friday</div>
+                    <div class="temperature"><i class="fa fa-tint"></i> 29<sup>o</sup></div>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
