@@ -6,7 +6,7 @@
 <p align="center"> :rocket: Daily challenges to get to the next level :rocket:</p>
 
 <h4 align="center"> 
-	🚧  In Construction...  🚧
+	:white_check_mark:  Finalized  :white_check_mark:
 </h4>
 
 Table of contents
@@ -28,7 +28,25 @@ Table of contents
       * [#10 - Neon Text Animation](#neon-animation)
       * [#11 - Card Neon](#neon-card)
       * [#12 - Banner Animation Neon](#neon-banner)
-      * ...
+      * [#13 - Icon Gradient Neon](#icon-neon)
+      * [#14 - Star Wars Neon](#star-neon)
+      * [#15 - Card Super Hero](#card-super)
+      * [#16 - Valorant Button](#valorant-button)
+      * [#17 - Jake Adventure Time](#adventure-time)
+      * [#18 - Game of Cards](#game-cards)
+      * [#19 - Among Us](#among-us)
+      * [#20 - League of Legends Client](#lol-client)
+      * [#21 - BB-8 Animation](#bb8-animation)
+      * [#22 - Box Never Loading](#box-never)
+      * [#23 - Loading Bouncy Ball](#loading-ball)
+      * [#24 - Simple Loading](#simple-loading)
+      * [#25 - Modern Loading](#modern-loading)
+      * [#26 - Rocket Loading](#rocket-loading)
+      * [#27 - Dash Loading](#dash-loading)
+      * [#28 - Game Loading](#game-loading)
+      * [#29 - Profile Card](#profile-card)
+      * [#30 - E-Commerce Card 2](#ecommerce-card2)
+      * [#31 - Weather Card](#weather-card)
    * [Technologies](#technologies)
    * [License](#license)
    * [Author](#author)
@@ -72,69 +90,235 @@ Now with the clone on your machine just access it by VsCode and let your imagina
 
 <span> Week 02 - Basic elements interpreted with neon style</span>
 
-<span> ...</span>
+<span> Week 03 - Elements of pages with geek theme</span>
+
+<span> Week 04 - Loading animations</span>
+
+<span> Week 05 - Advanced cards</span>
 
 <h2 id="projects"> 💡 Projects </h2> 
  
 <span id="flip-text">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day1/day1.html"> #01 - Flip Text </a>
-	<p>In this project the main concept learned is that of keyframe for animations and the possibilities of use.</p>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day01/day01.html"> #01 - Flip Text </a>
+	<img src="./res/images/Readme/01.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="loading-animation">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day2/day2.html"> #02 - Loading Animation </a>
-	<p>In this project I used the previously learned concept of the keyframe and put it together to make this amazing effect.</p>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day02/day02.html"> #02 - Loading Animation </a>
+	<img src="./res/images/Readme/02.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="video-text">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day3/day3.html"> #03 - Video Inside Text </a>
-	<p>This amazing effect was done using basic properties like position but if used correctly we create amazing things.</p>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day03/day03.html"> #03 - Video Inside Text </a>
+	<img src="./res/images/Readme/03.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="ecommerce-card">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day4/day4.html"> #04 - Ecommerce Card</a>
-	<p>That was the project that by far was what I learned the most so far. It is a set of all the basics of CSS that make an effect that I liked a lot and intend to adhere to in the future!</p>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day04/day04.html"> #04 - Ecommerce Card</a>
+	<img src="./res/images/Readme/04.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="button-animation">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day5/day5.html"> #05 - Button Animation </a>
-	<p>This button effect during hover was where I learned more about handling elements by position and animation/@keyframes.</p>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day05/day05.html"> #05 - Button Animation </a>
+	<img src="./res/images/Readme/05.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="search-box">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day6/day6.html"> #06 - Search Box </a>
-	<p>This project was where I learned to manipulate input in a more modern and visually beautiful way.</p>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day06/day06.html"> #06 - Search Box </a>
+	<img src="./res/images/Readme/06.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="menu-hover">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day7/day7.html"> #07 - Menu Hover Effect </a>
-	</br>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day07/day07.html"> #07 - Menu Hover Effect </a>
+	<img src="./res/images/Readme/07.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="neon-writer">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day8/day8.html"> #08 - Neon Text Writer </a>
-	</br>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day08/day08.html"> #08 - Neon Text Writer </a>
+	<img src="./res/images/Readme/08.png" width="1000px">
 </span>
 
+<br/>
+
 <span id="neon-buttons">
-	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day9/day9.html"> #09 - Neon Buttons </a>
-	</br>
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day09/day09.html"> #09 - Neon Buttons </a>
+	<img src="./res/images/Readme/09.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="neon-animation">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day10/day10.html"> #10 - Neon Text Animation </a>
-	</br>
+	<img src="./res/images/Readme/10.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="neon-card">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day11/day11.html"> #11 - Card Neon </a>
-	</br>
+	<img src="./res/images/Readme/11.png" width="1000px">
 </span>
+
+<br/>
 
 <span id="neon-banner">
 	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day12/day12.html"> #12 - Banner Neon Animation </a>
-	</br>
+	<img src="./res/images/Readme/12.png" width="1000px">
 </span>
+
+<br/>
+
+<span id="icon-neon">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day13/day13.html"> #13 - Icon Gradient Neon </a>
+	<img src="./res/images/Readme/13.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="star-neon">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day14/day14.html"> #14 - Star Wars Neon </a>
+	<img src="./res/images/Readme/14.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="card-super">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day15/day15.html"> #15 - Card Super Hero </a>
+	<img src="./res/images/Readme/15.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="valorant-button">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day16/day16.html"> #16 - Valorant Button </a>
+	<img src="./res/images/Readme/16.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="adventure-time">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day17/day17.html"> #17 - Jake Adventure Time </a>
+	<img src="./res/images/Readme/17.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="game-cards">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day18/day18.html"> #18 - Game of Cards </a>
+	<img src="./res/images/Readme/18.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="game-cards">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day18/day18.html"> #18 - Game of Cards </a>
+	<img src="./res/images/Readme/18.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="among-us">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day19/day19.html"> #19 - Among Us </a>
+	<img src="./res/images/Readme/19.png" width="1000px">
+</span>
+
+<br/>
+
+<span id="lol-client">
+	<a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day20/day20.html"> #20 - League of Legends Client </a>
+	<img src="./res/images/Readme/20.png" width="1000px">
+</span>
+
+<br/>
+
+  <span id="bb8-animation">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day21/day21.html"> #21 - BB-8 Animation </a>
+    <img src="./res/images/Readme/21.png" width="1000px">
+  </span>
+  
+  <br/>
+
+  <span id="box-never">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day22/day22.html"> #22 - Box Never Loading </a>
+    <img src="./res/images/Readme/22.png" width="1000px">
+  </span>
+  
+  <br/>
+
+  <span id="loading-ball">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day23/day23.html"> #23 - Loading Bouncy Ball</a>
+    <img src="./res/images/Readme/23.png" width="1000px">
+  </span>
+	
+  <br/>
+  
+  <span id="simple-loading">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day24/day24.html"> #24 - Simple Loading</a>
+    <img src="./res/images/Readme/24.png" width="1000px">
+  </span>
+  
+  <br/>
+
+  <span id="modern-loading">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day25/day25.html"> #25 - Modern Loading</a>
+    <img src="./res/images/Readme/25.png" width="1000px">
+  </span>
+  
+  <br/>
+  
+  <span id="rocket-loading">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day26/day26.html"> #26 - Rocket Loading</a>
+    <img src="./res/images/Readme/26.png" width="1000px">
+  </span>
+  
+  <br/>
+
+  <span id="dash-loading">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day27/day27.html"> #27 - Dash Loading</a>
+    <img src="./res/images/Readme/27.png" width="1000px">
+  </span>
+  
+  <br/>
+	
+  <span id="game-loading">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day28/day28.html"> #28 - Game Loading</a>
+    <img src="./res/images/Readme/28.png" width="1000px">
+  </span>
+  
+  <br/>
+
+  <span id="profile-card">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day29/day29.html"> #29 - Profile Card</a>
+    <img src="./res/images/Readme/29.png" width="1000px">
+  </span>
+  
+  <br/>
+
+  <span id="ecommerce-card2">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day30/day30.html"> #30 - E-Commerce Card 2</a>
+    <img src="./res/images/Readme/30.png" width="1000px">
+  </span>
+  
+  <br/>
+
+  <span id="weather-card">
+    <a href="https://edupferraz.github.io/31-Days-Css/pages/projects/day31/day31.html"> #31 - Weather Card</a>
+    <img src="./res/images/Readme/31.png" width="1000px">
+  </span>
 
 <h2 id="technologies"> 🛠️ Technologies </h2> 
 
@@ -143,8 +327,10 @@ Now with the clone on your machine just access it by VsCode and let your imagina
 
 - HTML
 - CSS
-- JS
-- ...
+- JavaScript
+- Jquery
+- Vanilla tilt.js
+- Particle.js
 
 
 <h2 id="license"> :memo: License </h2> 
